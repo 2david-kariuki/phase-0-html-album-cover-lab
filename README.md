@@ -11,7 +11,7 @@ step in the process of learning HTML, but one of the best ways to solidify the
 concepts we've learned is to apply concepts together. In this lab, your task
 will be to update `index.html` based on commented notes in the file, using what
 we've learned about text formatting and displaying images.
-
+                            
 ## Getting Started
 
 **Fork and clone** this lesson into your local environment. Navigate into its
